@@ -34,12 +34,6 @@
   padding-top: 26px;
 }
 
-.links a {
-  color: black;
-  font-size: 25px;
-  border-bottom: 1px solid #424343;
-}
-
 header {
   border-top: 9px solid #222222;
 }
@@ -62,6 +56,20 @@ h2 {
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
-  font-family: 'nobileregular', sans-serif;
+  font-family: 'rubikregular', sans-serif;
   font-weight: bold;
+}
+
+.next-quote {
+  color: #f84342;
+  font-family: 'rubikregular', sans-serif;
+  font-size:20px;
+
+}
+
+.footer-blurb {
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-style: italic;
+  text-align: right;
+  font-size: 12px;
 }
